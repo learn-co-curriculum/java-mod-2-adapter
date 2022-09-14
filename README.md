@@ -37,7 +37,11 @@ charger and have it plugged into a different country's socket.
 ## Implementation
 
 One more time, let us consider our transportation example from the factory
-lesson. Each of our vehicles can travel at a certain speed, so let's go ahead
+lesson. 
+
+![Transportation Factory](https://curriculum-content.s3.amazonaws.com/java-mod-2/factory/Factory-UML.png)
+
+Each of our vehicles can travel at a certain speed, so let's go ahead
 and add a new method called `getSpeed()` to each of the `Vehicle`
 implementations that will return a speed in miles per hour:
 
